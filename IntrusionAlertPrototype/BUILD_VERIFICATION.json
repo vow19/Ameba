@@ -1,0 +1,50 @@
+﻿{
+    "phase":  4,
+    "currentStatus":  "Integrated prototype uploaded successfully; normal boot and hardware behavior still pending.",
+    "integratedBuild":  {
+                            "startedAt":  "2026-10-18T01:32:11+08:00",
+                            "finishedAt":  "2026-10-18T01:32:24+08:00",
+                            "exitCode":  0,
+                            "fqbn":  "realtek:AmebaPro2:Ameba_AMB82-MINI",
+                            "core":  "4.0.9-build20250805 (workspace portable)",
+                            "boardOptions":  "01_AutoUploadMode=Disable,02_UploadBaudrate=2M,03_EraseFlash=Disable,04_CameraOption=f37,05_FCSMode=Disable,06_LoadNNModelSource=flash,07_SHOWNNLOGS=Disable,08_OTAMode=Disable,09_StdLibInit=Enable",
+                            "sketchSHA256":  "9CE4A0FA4460CAA5B29FDB963A1016254999E56B1411BCD18E4DB5DBE11B1396",
+                            "firmwareBytes":  9580544,
+                            "firmwareSHA256":  "EB97A6B735F5C7679A46E7E60C56AEFEC50B14A458121B0A42CA87F5BE9B21FD",
+                            "modelsVerified":  true,
+                            "globalManifestUnchanged":  true,
+                            "uploaded":  true,
+                            "hardwareTested":  false,
+                            "log":  "C:\\Users\\vow19\\Documents\\Arduino\\hw2\\.amb82\\intrusion-logs\\compile-upload-20261018-012900.log",
+                            "uploadLog":  "C:\\Users\\vow19\\Documents\\Arduino\\hw2\\.amb82\\intrusion-logs\\upload-20261018-012900.log"
+                        },
+    "officialBaseline":  {
+                             "startedAt":  "2026-10-17T19:45:24.6609828+08:00",
+                             "finishedAt":  "2026-10-17T19:46:44.7790400+08:00",
+                             "exitCode":  0,
+                             "fqbn":  "realtek:AmebaPro2:Ameba_AMB82-MINI",
+                             "boardOptions":  "01_AutoUploadMode=Disable,02_UploadBaudrate=2M,03_EraseFlash=Disable,04_CameraOption=f37,05_FCSMode=Disable,06_LoadNNModelSource=flash,07_SHOWNNLOGS=Disable,08_OTAMode=Disable,09_StdLibInit=Enable",
+                             "sketchSHA256":  "672E6999094F7C9B9CF5F5E5A475D681E6A82B4CA91A64FD53D891E7736DB892",
+                             "modelsVerified":  true,
+                             "globalManifestUnchanged":  true,
+                             "log":  "C:\\Users\\vow19\\Documents\\Arduino\\hw2\\.amb82\\intrusion-logs\\compile-20261017-194524.log"
+                         },
+    "personBuild":  {
+                        "startedAt":  "2026-10-18T00:27:34.0733540+08:00",
+                        "finishedAt":  "2026-10-18T00:27:50.7110257+08:00",
+                        "exitCode":  0,
+                        "fqbn":  "realtek:AmebaPro2:Ameba_AMB82-MINI",
+                        "boardOptions":  "01_AutoUploadMode=Disable,02_UploadBaudrate=2M,03_EraseFlash=Disable,04_CameraOption=f37,05_FCSMode=Disable,06_LoadNNModelSource=flash,07_SHOWNNLOGS=Disable,08_OTAMode=Disable,09_StdLibInit=Enable",
+                        "sketchSHA256":  "0BC0B410F3EB22D50F81766F2E29880BB7445C845FFC7A127BCAE425B58A09F0",
+                        "modelsVerified":  true,
+                        "globalManifestUnchanged":  true,
+                        "log":  "C:\\Users\\vow19\\Documents\\Arduino\\hw2\\.amb82\\intrusion-logs\\compile-20261018-002734.log"
+                    },
+    "firmwareBytes":  9580544,
+    "firmwareSHA256":  "CFA9DBA4B704E41F1C3FCE0F988CC93DF6CD57280E1C2A33AEBAC8FC7C96E69B",
+    "toolImageMatches":  true,
+    "uploaded":  true,
+    "hardwareTested":  false,
+    "webImplemented":  false,
+    "notes":  "Explicit 640x360 dimensions and updated Wi-Fi credentials: compiled and upload tool reported success. Runtime verification pending."
+}

@@ -1,0 +1,24 @@
+﻿{
+    "previousPhase2Upload":  {
+                                 "startedAt":  "2026-10-18T00:30:52.5098851+08:00",
+                                 "finishedAt":  "2026-10-18T00:31:55.7635705+08:00",
+                                 "exitCode":  0,
+                                 "success":  true,
+                                 "port":  "COM4",
+                                 "firmwareSHA256":  "CFA9DBA4B704E41F1C3FCE0F988CC93DF6CD57280E1C2A33AEBAC8FC7C96E69B",
+                                 "sketchSHA256":  "0BC0B410F3EB22D50F81766F2E29880BB7445C845FFC7A127BCAE425B58A09F0",
+                                 "log":  "C:\\Users\\vow19\\Documents\\Arduino\\hw2\\.amb82\\intrusion-logs\\upload-20261018-003052.log",
+                                 "hardwareTested":  false
+                             },
+    "integratedUpload":  {
+                             "finishedAt":  "2026-10-18T01:34:31+08:00",
+                             "exitCode":  0,
+                             "success":  true,
+                             "port":  "COM4",
+                             "method":  "AmebaPro2 platform image_windows.exe upload recipe",
+                             "firmwareSHA256":  "EB97A6B735F5C7679A46E7E60C56AEFEC50B14A458121B0A42CA87F5BE9B21FD",
+                             "sketchSHA256":  "9CE4A0FA4460CAA5B29FDB963A1016254999E56B1411BCD18E4DB5DBE11B1396",
+                             "log":  "C:\\Users\\vow19\\Documents\\Arduino\\hw2\\.amb82\\intrusion-logs\\upload-20261018-012900.log",
+                             "hardwareTested":  false
+                         }
+}
